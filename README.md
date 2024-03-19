@@ -1,18 +1,52 @@
-# Class-12-Exam-Routine-2080-2081
+# Class 12 Exam Routine 2080-81 ( 2024 ): Dates, Subjects, and Timings
 
-Greetings, students of Class 12! Your journey towards academic excellence reaches a crucial juncture as we unveil the much-awaited Class 12 exam routine for the year 2081. Whether you're pursuing Science, Management, or Arts, your roadmap to success lies within these schedules. It's time to mark your calendars, set your reminders, and gear up for the challenges and triumphs that await.
+## 1. Science Stream
 
+| Date             | Day       | Subject                |
+| ---------------- | --------- | ---------------------- |
+| Baisakh 14, 2081 | Friday    | Compulsory English     |
+| Baisakh 16, 2081 | Sunday    | Compulsory Mathematics |
+| Baisakh 18, 2081 | Tuesday   | Compulsory Nepali      |
+| Baisakh 20, 2081 | Thursday  | Physics                |
+| Baisakh 23, 2081 | Sunday    | Chemistry              |
+| Baisakh 25, 2081 | Tuesday   | Biology                |
+| Baisakh 26, 2081 | Wednesday | Computer Science       |
 
-Here is the exam routine for class 12 science stream 2080 2081. English has been scheduled for Baisakh 14, 2081. Compulsory Nepali and Physics will be held on Baisakh 18 and Basaikh 20 respectively.
+## Management
 
-| Date             | Day      | Subject            |
-|------------------|----------|--------------------|
-| Baisakh 14, 2081 | Friday   | Compulsory English|
-| Baisakh 16, 2081 | Sunday   | Compulsory Mathematics |
-| Baisakh 18, 2081 | Tuesday  | Compulsory Nepali |
-| Baisakh 20, 2081 | Thursday | Physics            |
-| Baisakh 23, 2081 | Sunday   | Chemistry          |
-| Baisakh 25, 2081 | Tuesday  | Biology            |
-| Baisakh 26, 2081 | Wednesday| Computer Science   |
+| Date             | Day       | Subject                              |
+| ---------------- | --------- | ------------------------------------ |
+| Baisakh 14, 2081 | Friday    | Compulsory English                   |
+| Baisakh 16, 2081 | Sunday    | Mathematics / Social Studies         |
+| Baisakh 18, 2081 | Tuesday   | Compulsory Nepali                    |
+| Baisakh 20, 2081 | Thursday  | Accounting                           |
+| Baisakh 21, 2081 | Friday    | Finance / Hotel Management / B. Math |
+| Baisakh 23, 2081 | Sunday    | Economics                            |
+| Baisakh 25, 2081 | Tuesday   | Business Studies                     |
+| Baisakh 26, 2081 | Wednesday | Computer Science                     |
 
-This table organizes the dates, days, and subjects according to the provided data.
+## Humanities
+
+| Exam Date        | Day      | Subject                             |
+| ---------------- | -------- | ----------------------------------- |
+| Baisakh 14, 2081 | Friday   | Com. English                        |
+| Baisakh 16, 2081 | Sunday   | Com. Social Studies & Life Skill    |
+| Baisakh 18, 2081 | Tuesday  | Com. Nepali                         |
+| Baisakh 20, 2081 | Thursday | History / Rural Development         |
+| Baisakh 21, 2081 | Friday   | Mathematics                         |
+| Baisakh 23, 2081 | Sunday   | Opt. Nepali / Economics             |
+| Baisakh 25, 2081 | Tuesday  | Geography / Sociology / Linguistics |
+| Basaikh 27, 201  | Thursday | Opt. English                        |
+
+## Education
+
+| Exam Date        | Day      | Subject                        |
+| ---------------- | -------- | ------------------------------ |
+| Baisakh 14, 2081 | Friday   | Compulsory English             |
+| Baisakh 16, 2081 | Sunday   | Compulsory Social Studies      |
+| Baisakh 18, 2081 | Tuesday  | Compulsory Nepali              |
+| Baisakh 20, 2081 | Thursday | Pedagogy                       |
+| Baisakh 21, 2081 | Friday   | Mathematics / Health Education |
+| Baisakh 23, 2081 | Sunday   | Economics / Opt. Nepali        |
+| Baisakh 24, 2081 | Monday   | Optional English               |
+| Baisakh 25, 2081 | Tuesday  | Education Development          |
